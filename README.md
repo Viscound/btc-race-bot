@@ -1,5 +1,9 @@
 # Compression Breakout — a cbBTC/USDC 1-minute trading bot
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/Viscound/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/Viscound/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 A bot for the `agent-fun/bars-replay/v1` protocol: it reads one JSON line per
 minute (a 1-minute bar of cbBTC priced in USDC, plus fills and the account)
 on stdin and answers each batch with one reply of orders on stdout. It runs
@@ -62,3 +66,7 @@ what the dev gate asks for. Run on the second half alone it takes no trade
 at all and finishes flat while BTC falls another 1.6%: in a grind with no
 compressed base and no decisive break, sitting in cash is the strategy,
 not a missed opportunity.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=6bwfnen9&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
